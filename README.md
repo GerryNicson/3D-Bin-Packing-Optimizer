@@ -53,3 +53,18 @@ There are no fixed development schedules or commercial expectations. The scope m
 # Project Status
 
 --Early Experimentation--
+
+
+# A Personal Note
+
+This is just a personal project driven by curiosity and creativity.
+
+I don't know how far this project will go, whether it will be completed, or how much I will be able to achieve. And that's okay.
+
+I'm human, and this project doesn't have to be perfect or even finished to be worthwhile.
+
+I just want to explore an interesting idea, learn something new, experiment with Python, and see what I can create along the way.
+
+If it works, great. If it doesn't, at least I've learned something from trying.
+
+The journey matters just as much as the result.
