@@ -1,0 +1,5 @@
+[
+  {"name": "Small", "length": 30, "width": 20, "height": 20, "max_weight": 8.0, "cost": 2.0},
+  {"name": "Medium", "length": 45, "width": 30, "height": 30, "max_weight": 15.0, "cost": 3.5},
+  {"name": "Large", "length": 60, "width": 40, "height": 40, "max_weight": 25.0, "cost": 5.0}
+]
